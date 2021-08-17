@@ -112,7 +112,7 @@
                                         <thead class="thead-light">
                                             <tr>
                                                 <th>No</th>
-                                                <th>Pembeli</th>
+                                                <th>Pembelgiti</th>
                                                 <th>Phone</th>
                                                 <th>Alamat</th>
                                                 <th>Action</th>

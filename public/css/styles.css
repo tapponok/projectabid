@@ -3416,6 +3416,7 @@ li span {
 	font-size: 4.5rem;
 }
 
+
 @media all and (max-width: 768px) {
 	h1 {
 		font-size: 1.5rem;
@@ -3430,3 +3431,49 @@ li span {
 		font-size: 3.375rem;
 	}
 }
+
+@media only screen and (min-width: 720px) {
+	.ex-header {
+		padding-top: 8.5rem;
+		padding-left: 13rem;
+	}
+  }
+
+  @media only screen and (min-width: 768px) {
+	.ex-header {
+		padding-top: 8.5rem;
+		padding-left: 13rem;
+	}
+  }
+
+@media only screen and (max-width: 375px) {
+	li {
+		display: inline-block;
+		font-size: 0.5em;
+		list-style-type: none;
+		padding: 0.5em;
+		text-transform: uppercase;
+	}
+	
+	li span {
+		display: block;
+		padding-bottom:0.3em;
+		font-size: 3.5rem;
+	}
+
+	.ex-header {
+		padding-top: 5.5rem;
+		padding-left: 1rem;
+		padding-bottom: 0rem;
+		background: url('../images/details-3-background.png') center center no-repeat;
+	}
+	h3 {
+		color: #F1FE02;
+		left: 3rem;
+		text-align: center;
+		font-weight: 700;
+		font-size: 1.75rem;
+		line-height: 2.375rem;
+		letter-spacing: -0.4px;
+	}
+  }
