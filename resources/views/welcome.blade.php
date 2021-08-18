@@ -103,7 +103,7 @@
                         <h2 class="h2-large">"Kunci" kembalikan vitalitas seperti usia 20an
                             untuk pria</h2>
                         <p class="p-large" style="color: #FFF;">Sistem produksi dengan teknologi terkemuka dari
-                            AmerikaProduk 100% ekstrak esensi Cordyceps yang pertama diproduksi dengan teknologi Amerika
+                            Amerika. Produk 100% ekstrak esensi Cordyceps yang pertama diproduksi dengan teknologi Amerika
                             Serikat</p>
                         <a class="btn-solid-sm animated-button1 page-scroll" href="#details">
                             <span></span>
@@ -137,10 +137,10 @@
                         <p style="color: #FFF;">1. Sistem produksi dengan teknologi terkemuka dari Amerika</p>
                         <p style="color: #FFF;">2. Produk 100% ekstrak esensi Cordyceps yang pertama diproduksi dengan teknologi Amerika
                             Serikat</p>
-                        <p style="color: #FFF;">3.Tidak menyebabkan ketergantungan</p>
-                        <p style="color: #FFF;">4.Tanpa efek samping</p>
-                        <p style="color: #FFF;">5.Konsultasi 1-1 dengan spesialis</p>
-                        <p style="color: #FFF;">6.Mengikuti proses pengobatan untuk pelanggan</p>
+                        <p style="color: #FFF;">3. Tidak menyebabkan ketergantungan</p>
+                        <p style="color: #FFF;">4. Tanpa efek samping</p>
+                        <p style="color: #FFF;">5. Konsultasi 1-1 dengan spesialis</p>
+                        <p style="color: #FFF;">6. Mengikuti proses pengobatan untuk pelanggan</p>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -234,7 +234,7 @@
                             </li>
                             <li class="media">
                                 <img class="img-fluid" src="images/kekuatan.png" width="100" height="100">
-                                <p style="padding-top: 2.8rem; padding-left: 1rem;color: #F1FE02;"><b>Kelelahan tubuh,
+                                <p style="padding-top: 2.8rem; padding-left: 1rem;color: #F1FE02;"><b>Tubuh Kelelahan,
                                         kehilangan
                                         kekuatan</b></p>
                             </li>
