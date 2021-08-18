@@ -19,7 +19,7 @@
     <meta name="twitter:card" content="summary_large_image"> <!-- to have large image post format in Twitter -->
 
     <!-- Webpage Title -->
-    <title>Rocket Original 100%</title>
+    <title>Rocket original 100%</title>
 
     <!-- Styles -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -34,14 +34,11 @@
     <!-- Favicon  -->
     <link rel="icon" href="images/favicon.ico">
 </head>
-<style>
-
-</style>
 
 <body data-spy="scroll" data-target=".fixed-top">
 
-    <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg fixed-top navbar-light">
+   <!-- Navigation -->
+   <nav class="navbar navbar-expand-lg fixed-top navbar-light">
         <div class="container">
             <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
                 <span class="navbar-toggler-icon" style="background-color: white;"></span>
@@ -63,19 +60,15 @@
                         <a class="nav-link page-scroll" href="#features">Komposisi</a>
                     </li>
                 </ul>
-                <span class="nav-item">
-                    <a class="btn-solid-sm page-scroll" href="#details">Beli Sekarang</a>
-                </span>
             </div> <!-- end of navbar-collapse -->
         </div> <!-- end of container -->
     </nav> <!-- end of navbar -->
     <!-- end of navigation -->
-    <!-- Header -->
-    <header class="ex-header basic-1">
+    <div class="form-1">
         <div class="container">
             <div class="row">
-                <div class="col-lg-7">
-                    <div id="countdown text-container">
+                <div class="col-lg-12">
+                    <div class="form-group mail">
                         <ul>
                             <li><span id="hours"></span>Jam</li>
                             <li><span id="minutes"></span>Minute</li>
@@ -83,37 +76,41 @@
                         </ul>
                     </div>
                 </div> <!-- end of col -->
-                <div class="col-lg-5">
-                    <h3>PRODUK TERBATAS</h3>
-                    <a class="btn-solid-lg nav-link page-scroll animated-button1" style="color: white;"
-                        href="#details"><span></span>
+            </div> <!-- end of row -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <a class="btn-solid-sm animated-button1 page-scroll" href="#details">
                         <span></span>
                         <span></span>
-                        <span></span>Pesan
-                        Sekarang</a>
-                </div>
+                        <span></span>
+                        <span></span>
+                        Beli Sekarang</a>
+                </div> <!-- end of col -->
             </div> <!-- end of row -->
         </div> <!-- end of container -->
-    </header>
+    </div> <!-- end of form-1 -->
+    <!-- Header -->
     <header id="header" class="header">
         <div class="container">
             <div class="row">
                 <div class="col-lg-7">
-                    <img class="img-fluid" src="images/Gif-Rocket-unscreen.gif" alt="alternative">
+                    <div class="image-container">
+                        <img class="img-fluid" src="images/GifRocket.gif" width="500" alt="alternative">
+                    </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
                 <div class="col-lg-5">
-                    <div class="text-container" style="padding-top: 3rem;">
-                        <h1 class="h2-large" style="color: #F1FE02;">"Kunci" kembalikan vitalitas seperti usia 20an
-                            untuk pria</h1>
+                    <div class="text-container">
+                        <h2 class="h2-large">"Kunci" kembalikan vitalitas seperti usia 20an
+                            untuk pria</h2>
                         <p class="p-large" style="color: #FFF;">Sistem produksi dengan teknologi terkemuka dari
-                            AmerikaProduk 100% ekstrak
-                            esensi Cordyceps yang pertama diproduksi dengan teknologi Amerika Serikat</p>
-                        <a class="btn-solid-lg nav-link page-scroll animated-button1" style="color: white;"
-                            href="#details"><span></span>
+                            AmerikaProduk 100% ekstrak esensi Cordyceps yang pertama diproduksi dengan teknologi Amerika
+                            Serikat</p>
+                        <a class="btn-solid-sm animated-button1 page-scroll" href="#details">
                             <span></span>
                             <span></span>
-                            <span></span>Pesan
-                            Sekarang</a>
+                            <span></span>
+                            <span></span>
+                            Beli Sekarang</a>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -121,12 +118,14 @@
     </header> <!-- end of header -->
     <!-- end of header -->
 
-    <!-- Introduction -->
-    <div id="intro" class="basic-1">
+    <!-- Details 3 -->
+    <div class="basic-4" id="intro">
         <div class="container">
             <div class="row">
                 <div class="col-lg-7">
-                    <img class="img-fluid" src="images/Rocket_Komposisi.png" alt="alternative">
+                    <div class="image-container">
+                        <img class="img-fluid" src="images/Rocket_Komposisi.png" alt="alternative">
+                    </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
                 <div class="col-lg-5">
                     <div class="text-container">
@@ -134,10 +133,9 @@
                         <p style="color: #FFF;">Rocket adalah produk yang dilisensikan oleh Kementerian Kesehatan
                             Indonesia untuk distribusi
                             seluruh negara</p>
-                        <h2>KEUNGGULAN</h2>
+                        <h2>KEUNGGULAN ROCKET</h2>
                         <p style="color: #FFF;">1. Sistem produksi dengan teknologi terkemuka dari Amerika</p>
-                        <p style="color: #FFF;">2. Produk 100% ekstrak esensi Cordyceps yang pertama diproduksi dengan
-                            teknologi Amerika
+                        <p style="color: #FFF;">2. Produk 100% ekstrak esensi Cordyceps yang pertama diproduksi dengan teknologi Amerika
                             Serikat</p>
                         <p style="color: #FFF;">3.Tidak menyebabkan ketergantungan</p>
                         <p style="color: #FFF;">4.Tanpa efek samping</p>
@@ -147,77 +145,61 @@
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
         </div> <!-- end of container -->
-    </div> <!-- end of basic-1 -->
-    <!-- end of introduction -->
-
+    </div> <!-- end of basic-4 -->
 
     <!-- Features -->
-    <div id="features" class="cards-1" style="background-color: #040404;">
+    <div id="features" class="cards-1" style="background-image: url(images/header-background.png);">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h3 style="background-color: transparent; text-align: center;">DENGAN BERMACAM
-                        HERBAL YANG BERHARGA</h3>
-                    <p style="color: #FFF; background-color: transparent; text-align: center;">Ekstrak 100% organik
-                        dari tumbuhan alami dengan sistem produksi standar GMP serta pengawasan spesialis Amerika
-                        Serikat</p>
+                    <h2 class="h2-heading">DENGAN BERMACAM HERBAL YANG BERHARGA</h2>
+                    <p class="p-heading">Ekstrak 100% organik dari tumbuhan alami dengan sistem produksi standar GMP
+                        serta
+                        pengawasan spesialis Amerika Serikat</p>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
             <div class="row">
                 <div class="col-lg-12">
                     <!-- Card -->
                     <div class="card">
+                        <div class="card-icon-wrapper">
+                            <img class="img-fluid" st src="images/Tribulus.png" alt="Tribulus">
+                        </div>
                         <div class="card-body">
-                            <div class="card-icon">
-                                <img class="img-fluid" st src="images/Tribulus.png" alt="Tribulus">
-                            </div>
-                            <h5 class="card-title" style="text-align: left; color: #F1FE02;">Tribulus terrestris</h5>
-                            <span>
-                                <p
-                                    style="color:#FFF; background-color: transparent; text-align: left; text-justify: auto;">
-                                    Meningkatkan jumlah testosteron hormon seks pria dan meningkatkan jumlah sperma</p>
-                            </span>
+                            <h4 class="card-title">Tribulus terrestris</h4>
+                            <p>Meningkatkan jumlah testosteron hormon seks pria dan meningkatkan jumlah sperma</p>
+                        </div>
+                    </div>
+                    <!-- end of card -->
+                    <!-- Card -->
+                    <div class="card">
+                        <div class="card-icon-wrapper">
+                            <img class="img-fluid" st src="images/gingseng.png" alt="gingseng">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">Gingseng</h4>
+                            <p>Meningkatkan sirkulasi darah, mempertahankan ereksi lebih lama</p>
+                        </div>
+                    </div>
+                    <!-- end of card -->
+                    <!-- Card -->
+                    <div class="card">
+                        <div class="card-icon-wrapper">
+                            <img class="img-fluid" st src="images/extract.png" alt="extract">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">Ekstrak akar Pimpinellas</h4>
+                            <p>Meningkatkan jumlah testosteron hormon seks pria, meningkatkan jumlah sperma.</p>
                         </div>
                     </div>
                     <div class="card">
-                        <div class="card-body">
-                            <div class="card-icon">
-                                <img class="img-fluid" src="images/Guarananut.png" alt="Guarananut">
-                            </div>
-                            <h5 class="card-title" style="text-align: left; color: #F1FE02;">Guarana nut</h5>
-                            <span>
-                                <p
-                                    style="color:#FFF; background-color: transparent; text-align: left; text-justify: auto;">
-                                    Memberi energi, menguatkan tubuh, membangkitkan seks, mendukung pengobatan disfungsi
-                                    ereksi</p>
-                            </span>
+                        <div class="card-icon-wrapper">
+                            <img class="img-fluid" st src="images/guarana.png" alt="guarana">
                         </div>
-                    </div>
-                    <div class="card">
                         <div class="card-body">
-                            <div class="card-icon">
-                                <img class="img-fluid" src="images/gingseng.png" alt="Ginseng">
-                            </div>
-                            <h5 class="card-title" style="text-align: left; color: #F1FE02;">Ginseng</h5>
-                            <span>
-                                <p
-                                    style="color:#FFF; background-color: transparent; text-align: left; text-justify: auto;">
-                                    Meningkatkan sirkulasi darah, mempertahankan ereksi lebih lama</p>
-                            </span>
-                        </div>
-                    </div>
-                    <div class="card">
-                        <div class="card-body">
-                            <div class="card-icon">
-                                <img class="img-fluid" src="images/pinampela.png" alt="alternative">
-                            </div>
-                            <h5 class="card-title" style="text-align: left; color: #F1FE02;">Ekstrak akar Pimpinellas
-                            </h5>
-                            <span>
-                                <p
-                                    style="color:#FFF; background-color: transparent; text-align: left; text-justify: auto;">
-                                    Meningkatkan jumlah testosteron hormon seks pria, meningkatkan jumlah sperma.</p>
-                            </span>
+                            <h4 class="card-title">Guarana nut</h4>
+                            <p>Memberi energi, menguatkan tubuh, membangkitkan seks, mendukung pengobatan disfungsi
+                                ereksi</p>
                         </div>
                     </div>
                     <!-- end of card -->
@@ -269,6 +251,8 @@
     </div> <!-- end of basic-2 -->
     <!-- end of details 1 -->
 
+
+
     <!-- Details 2 -->
     <div class="basic-3">
         <div class="container">
@@ -298,64 +282,16 @@
             </div> <!-- end of row -->
         </div> <!-- end of container -->
     </div> <!-- end of basic-3 -->
-    <!-- end of details 2 -->
-    <div id="details" class="ex-form-1 pt-5 pb-5">
-        <div class="container">
-            <div class="row">
-            <div class="col-xl-6">
-                    <div class="image-container">
-                        <img class="img-fluid" src="images/Harga.png" alt="Guarananut">
-                    </div> <!-- end of image-container -->
-                </div> <!-- end of col -->
-                <div class="col-xl-6">
-                    <div class="text-box mt-5 mb-5 countdown">
-                        <ul style="background-color: black;">
-                            <li><span id="hoursdua" style="text-align: center; color:#A93907;"></span>Jam</li>
-                            <li><span id="minutesdua" style="text-align: center; color:#A93907"></span>Minute</li>
-                            <li><span id="secondsdua" style="text-align: center; color:#A93907"></span>detik</li>
-                        </ul>
-                        <h2 style="text-align: center; color: #A93907;">PESAN SEKARANG!</h2>
-                        <p style="text-align: center; background-color: transparent;"> KUANTITAS PRODUK TERBATAS</p>
-                        <!-- Log In Form -->
-                        <form action="{{route('customer.store')}}" method="POST" enctype="multipart/form-data"
-                            id="logInForme">
-                            {{ csrf_field() }}
-                            <div class="form-group">
-                                <input type="text" class="form-control-input" name="customername" id="namalengkap"
-                                    required>
-                                <label class="label-control" for="namalengkap">Nama Lengkap</label>
-                            </div>
-                            <div class="form-group">
-                                <input type="number" class="form-control-input" name="phone" id="nomortelepon" required>
-                                <label class="label-control" for="nomor">Nomor Telepon</label>
-                            </div>
-                            <div class="form-group">
-                                <input type="text" class="form-control-input" name="address" id="alamat" required>
-                                <label class="label-control" for="alamat">Alamat</label>
-                            </div>
-                            <div class="form-group">
-                                <button type="submit" style="color: #FFF;" class="form-control-submit-button">Pesan
-                                    Sekarang</button>
-                            </div>
-                        </form>
-                        <!-- end of log in form -->
-                    </div> <!-- end of text-box -->
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of ex-basic-1 -->
-    <div id="details" class="basic-2">
+    <div class="basic-2">
         <div class="container">
             <div class="row">
                 <div class="col-lg-9">
-                    <div class="intro">
                         <h2>Youtube Video</h2>
                     </div> <!-- end of intro -->
-                </div> <!-- end of col -->
             </div> <!-- end of row -->
             <div class="row">
                 <div class="col-lg-7">
-                    <div class="image-container">
+                    <div class="image-container videowrapper">
                         <iframe width="500" height="315" src="https://www.youtube.com/embed/vKG3D_y3HXI"
                             title="YouTube video player" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -383,6 +319,9 @@
             </div> <!-- end of row -->
         </div> <!-- end of row -->
     </div> <!-- end of container -->
+
+
+
     <div class="slider-2" style="background-image: url(images/header-background.png);">
         <div class="container">
             <div class="row">
@@ -448,7 +387,9 @@
             </div> <!-- end of row -->
         </div> <!-- end of container -->
     </div>
-    <div id="features" class="cards-1" style="background-color: #040404;">
+
+
+    <div id="features" class="cards-1" style="background-image: url(images/header-background.png);">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -466,6 +407,64 @@
         </div> <!-- end of row -->
         </div> <!-- end of container -->
     </div> <!-- end of cards-1 -->
+
+    <div id="details" class="ex-form-1 pt-5 pb-5" style="background-image: url(images/header-background.png);">
+        <div class="container">
+            <div class="row">
+            <div class="col-xl-6">
+                    <div class="image-container">
+                        <img class="img-fluid" src="images/Harga.png" alt="Guarananut">
+                    </div> <!-- end of image-container -->
+                </div> <!-- end of col -->
+                <div class="col-xl-6">
+                    <div class="text-box mt-5 mb-5 countdown">
+                        <ul style="background-color: black;">
+                            <li><span id="hoursdua" style="text-align: center; color:#A93907;"></span>Jam</li>
+                            <li><span id="minutesdua" style="text-align: center; color:#A93907"></span>Minute</li>
+                            <li><span id="secondsdua" style="text-align: center; color:#A93907"></span>detik</li>
+                        </ul>
+                        <h2 style="text-align: center; color: #A93907;">PESAN SEKARANG!</h2>
+                        <p style="text-align: center; background-color: transparent;"> KUANTITAS PRODUK TERBATAS</p>
+                        <!-- Log In Form -->
+                        <form action="{{route('customer.store')}}" method="POST" enctype="multipart/form-data"
+                            id="logInForme">
+                            {{ csrf_field() }}
+                            <div class="form-group">
+                                <input type="text" class="form-control-input" name="customername" id="namalengkap"
+                                    required>
+                                <label class="label-control" for="namalengkap">Nama Lengkap</label>
+                            </div>
+                            <div class="form-group">
+                                <input type="number" class="form-control-input" name="phone" id="nomortelepon" required>
+                                <label class="label-control" for="nomor">Nomor Telepon</label>
+                            </div>
+                            <div class="form-group">
+                                <input type="text" class="form-control-input" name="address" id="alamat" required>
+                                <label class="label-control" for="alamat">Alamat</label>
+                            </div>
+                            <div class="form-group">
+                                <button type="submit" class="form-control-submit-button">Pesan
+                                    Sekarang</button>
+                            </div>
+                        </form>
+                        <!-- end of log in form -->
+                    </div> <!-- end of text-box -->
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of ex-basic-1 -->
+
+    <!-- Copyright -->
+    <div class="copyright">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                </div> <!-- end of col -->
+            </div> <!-- enf of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of copyright -->
+    <!-- end of copyright -->
+
     <!-- Scripts -->
     <script src="js/jquery.min.js"></script> <!-- jQuery for Bootstrap's JavaScript plugins -->
     <script src="js/bootstrap.min.js"></script> <!-- Bootstrap framework -->
@@ -512,7 +511,6 @@
         }());
 
     </script>
-
     <script class="text/javascript">
         $(document).ready(function () {
             timedown();
@@ -554,8 +552,6 @@
                     //seconds
                 }, 0)
         };
-
     </script>
 </body>
-
 </html>
